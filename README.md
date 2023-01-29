@@ -1,2 +1,3 @@
-# academia
-Alicia Cardozo's Personal Blog
+# Alicia Cardozo PhD (USA)
+## Website and Personal Blog
+ 
