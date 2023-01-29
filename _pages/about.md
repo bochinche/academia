@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Alicia Cardozo
 permalink: /about/
 ---
 
@@ -16,10 +16,3 @@ I am a psychologist who graduated from the Universidad Católica Andrés Bello. 
 In 20XX, I completed my doctoral studies in Instructional Technology and Distance Education at Nova Southeastern University. I am very excited and look forward to interacting with people interested in these topics.
 
 *Alicia Cardozo PhD (USA)* 
-
-
-# Links
-- Universidad Simón Bolívar Mirror (own) [https://bochinche.github.io/academia/assets/usb/personal/index.html](https://bochinche.github.io/academia/assets/usb/personal/index.html)
-- Enseñando a aprender - Fundación Polar [https://bibliofep.fundacionempresaspolar.org/publicaciones/manuales/enseñando-a-aprender/](https://bibliofep.fundacionempresaspolar.org/publicaciones/manuales/enseñando-a-aprender/)
-- Universidad Simón Bolivar (mirror) [https://bochinche.github.io/academia/assets/ascenso/ascenso_news.html](https://bochinche.github.io/academia/assets/ascenso/ascenso_news.html)
-- Univeridad Simón Bolívar (external) [https://usbnoticias.usb.ve/post/53814](https://usbnoticias.usb.ve/post/53814)

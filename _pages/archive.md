@@ -1,11 +1,8 @@
 ---
 layout: page
 permalink: /archive/
-title: Posts Archive
+title:
 ---
-
-I am archive
-
 <div id="archives">
   <section id="archive">
      <h3>Most Recent Posts</h3>
