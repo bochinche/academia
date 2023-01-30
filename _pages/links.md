@@ -18,6 +18,6 @@ permalink: /links/
 - Un ascenso y tres ingresos en el escalafón académico - Univeridad Simón Bolívar (mirror) Nr. 2 [../assets/wget/post/53814.html](../assets/wget/post/53814.html)
 
 # Publications
-- [Estilos y Estrategias de Aprendizaje ¿Constructors Complementatios o Diferentes?](../assets/publications/Estilos_y_estrategias_de_aprendizaje_con.pdf)
+- [Estilos y Estrategias de Aprendizaje ¿Constructos Complementatios o Diferentes?](../assets/publications/Estilos_y_estrategias_de_aprendizaje_con.pdf)
 - [Pensamiento Crítico y Alta Habilidad](../assets/publications/Pensamiento_critico_y_alta_habilidad.pdf)
 
