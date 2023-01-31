@@ -11,7 +11,6 @@ permalink: /links/
 - Revista Argos - Consejo Editorial - Universidad Simón Bolívar [https://www.revistaargos.div-csh.usb.ve/inicio/consejo-editorial](https://www.revistaargos.div-csh.usb.ve/inicio/consejo-editorial)
 - Perfil Alicia Cardozo - researchgate [https://www.researchgate.net/profile/Alicia-Cardozo](https://www.researchgate.net/profile/Alicia-Cardozo)
 
-
 # Internal Links (mirrors)
 - Página Profesional Dra. Alicia Cardozo - Universidad Simón Bolívar (mirror) [../assets/usb/personal/index.html](../assets/usb/personal/index.html)
 - Un ascenso y tres ingresos en el escalafón académico - Univeridad Simón Bolívar (mirror) Nr. 1 [../assets/ascenso/ascenso_news.html](../assets/ascenso/ascenso_news.html)
@@ -20,4 +19,4 @@ permalink: /links/
 # Publications
 - [Estilos y Estrategias de Aprendizaje ¿Constructos Complementatios o Diferentes?](../assets/publications/Estilos_y_estrategias_de_aprendizaje_con.pdf)
 - [Pensamiento Crítico y Alta Habilidad](../assets/publications/Pensamiento_critico_y_alta_habilidad.pdf)
-
+- [Motivación, Aprendizaje y Rendimiento Académico en Estudiantes del Primer Año Universitario](../assets/publications/MOTIVACION_APRENDIZAJE_Y_RENDIMIENTO_ACA.pdf)
