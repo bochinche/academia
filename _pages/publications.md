@@ -1,9 +1,8 @@
 ---
 layout: page
-title:
+title: Articles & Papers
 permalink: /publications/
 ---
-# Articles and Papers
 
 - [Estilos y Estrategias de Aprendizaje ¿Constructos Complementatios o Diferentes?](../assets/publications/Estilos_y_estrategias_de_aprendizaje_con.pdf)
 - [Pensamiento Crítico y Alta Habilidad](../assets/publications/Pensamiento_critico_y_alta_habilidad.pdf)
