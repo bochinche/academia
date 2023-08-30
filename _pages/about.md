@@ -13,6 +13,6 @@ I have specialized in the cognitive field, specifically in learning processes an
 ## Educational background
 I am a psychologist who graduated from the Universidad Católica Andrés Bello. I have completed postgraduate studies in Counseling and Human Development and Methodology Applied to Research.
 
-In 20XX, I completed my doctoral studies in Instructional Technology and Distance Education at Nova Southeastern University. I am very excited and look forward to interacting with people interested in these topics.
+In 2003, I completed my doctoral studies in Instructional Technology and Distance Education at Nova Southeastern University. I am very excited and look forward to interacting with people interested in these topics.
 
 *Alicia Cardozo PhD (USA)* 
